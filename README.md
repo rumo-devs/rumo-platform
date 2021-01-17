@@ -4,5 +4,7 @@ Uma plataforma interativa, intuitiva e gamificada que ajude jovens estudantes e 
 # Sobre os arquivos
 
 roadmap.fig e roadmap.pdf são extrações do figma, onde o conceito da plataforma foi desenvolvido.
-time44.pdf é a apresentação do projeto
-webite.rar é o arquivo do site
+
+time44.pdf é a apresentação do projeto.
+
+webite.rar é o arquivo do site.
